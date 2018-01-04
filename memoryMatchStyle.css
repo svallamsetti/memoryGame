@@ -1,0 +1,11 @@
+table, td {
+    border: solid 5px black;
+}
+
+td {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    color: azure;
+    background-color: #575757;
+}
